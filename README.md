@@ -1,6 +1,6 @@
 # Landing Page - Ana Paula Farias
 
-Pequena landing page construída com React + TypeScript + Tailwind CSS + Vite.
+Landing page construída com React + TypeScript + Tailwind CSS + Vite.
 
 Conteúdo
 - Componentes em `src/components` (Header, Hero, Products, ProductCard, ProductModal, FinancialProducts, Footer)

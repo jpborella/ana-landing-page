@@ -3,7 +3,9 @@ import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 const SocialIcons = () => (
   <div>
-    <a href="https://wa.me/seunumero" target="_blank" rel="noreferrer">
+    <a href="https://wa.me/seunumero"
+      target="_blank"
+      rel="noreferrer">
       <FontAwesomeIcon icon={faWhatsapp} size="2x" />
     </a>
     <a
