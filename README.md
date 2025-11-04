@@ -18,7 +18,9 @@
 
 ## 📋 Sobre o Projeto
 
-Esta landing page foi desenvolvida com foco em **performance**, **responsividade** e **experiência do usuário**. O projeto demonstra habilidades em desenvolvimento front-end moderno, utilizando uma stack tecnológica atual e práticas de código limpo.
+Esta landing page foi desenvolvida com foco em **performance**, **responsividade** e **experiência do usuário**. O projeto demonstra habilidades em desenvolvimento front-end moderno, utilizando uma stack tecnológica atual e práticas de código limpo. 
+
+**Acesse:** https://ana-landing-page-kappa.vercel.app/
 
 ### 🎯 Objetivo
 Criar uma solução prática para apresentação de produtos através de QR Code, permitindo acesso rápido e intuitivo a informações comerciais, ideal para ambientes de vendas presenciais.
