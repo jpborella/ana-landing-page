@@ -138,5 +138,5 @@ Este projeto é privado e foi desenvolvido para uso específico.
 ---
 
 <div align="center">
-  <p>⭐ Se você gostou desse porjeto, considere dar uma estrela!</p>
+  <p>⭐ Se você gostou desse projeto, considere dar uma estrela!</p>
 </div>
