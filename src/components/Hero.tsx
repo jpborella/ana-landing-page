@@ -3,7 +3,7 @@ import { data } from '../data'
 export default function Hero() {
     return (
         <section className="flex flex-col items-center text-center py-5 ">
-            <img src="/images/vendedora.png"
+            <img src="/images/foto-ana.png"
                 alt={data.vendedora.nome}
                 className="w-48 h-48 object-cover object-top rounded-full shadow-xl" />
             <h1 className="text-4xl md:text-5xl font-bold mb-4 ">{data.vendedora.nome}</h1>
