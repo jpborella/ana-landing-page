@@ -2,6 +2,7 @@
   "name": "landing-ana-paula",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/ana-paula/",
   "type": "module",
   "scripts": {
     "dev": "vite",
